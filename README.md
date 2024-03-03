@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/sajjadmugdho" target="blank"><img src="https://img.shields.io/twitter/follow/sajjadmugdho?logo=twitter&style=for-the-badge" alt="sajjadmugdho" /></a> </p>
 
-- 🔭 I’m currently working on [Bilsida.se](Full Stack Developer)
+- 🔭 I’m currently working on [](Full Stack Developer)
 
-- 👨‍💻 All of my projects are available at [https://sajjad-portfolio-e1f29.web.app/](https://sajjad-portfolio-e1f29.web.app/)
+- 👨‍💻 All of my projects are available at [https://sajjad-mugdho.vercel.app/](https://sajjad-mugdho.vercel.app/)
 
 - 📫 How to reach me **sajjadmugdho@gmail.com**
 
