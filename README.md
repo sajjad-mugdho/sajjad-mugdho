@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [](Full Stack Developer)
 
-- 👨‍💻 All of my projects are available at [https://sajjad-mugdho.vercel.app/](https://sajjad-mugdho.vercel.app/)
+- 👨‍💻 All of my projects are available at [http://sajjad-mugdho.vercel.app](http://sajjad-mugdho.vercel.app/)
 
 - 📫 How to reach me **sajjadmugdho@gmail.com**
 
